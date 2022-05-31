@@ -13,6 +13,6 @@
 </div>
 </br>
 
-![thiag0 GitHub stats](https://github-readme-stats.vercel.app/api?username=thiag0-dot&show_icons=true&theme=radical)</br>
-![thiag0 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thiag0-dot&theme=radical)
+![thiag0 GitHub stats](https://github-readme-stats.vercel.app/api?username=thiag0-dot&show_icons=true&theme=radical)
+![thiag0 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thiag0-dot&theme=radical)</br>
 
