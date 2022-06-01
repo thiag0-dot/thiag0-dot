@@ -13,7 +13,7 @@
 </div>
 </br>
 
-![thiag0 GitHub stats](img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiag0-dot&show_icons=true&theme=radical" style="max-width: 100%;")
+![thiag0 GitHub stats](https://github-readme-stats.vercel.app/api?username=thiag0-dot&show_icons=true&theme=radical)
 ![thiag0 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thiag0-dot&theme=radical)
 </br>
 
