@@ -15,6 +15,7 @@
 
 <div align="center">
 <img height="195px" width="49%" src="https://github-readme-stats.vercel.app/api?username=thiag0-dot&show_icons=true&theme=tokyonight" data-canonical-src="https://github-readme-stats.vercel.app/api?username=thiag0-dot&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;"/>
+</br>
 <img height="195px" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiag0-dot&amp;layout=compact&amp;langs_count=7&amp;theme=tokyonight" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiag0-dot&amp;layout=compact&amp;langs_count=7&amp;theme=tokyonight" style="max-width:100%;"/>
 </div>
 
