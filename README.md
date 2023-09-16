@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá meu nome é Thiago e atualmente tenho 17 anos,<strong> Desenvolvedor FullStack</strong>.<br>
-  Estou fazendo o curso de Desenvolvimento de Sistemas na ETEC Joaquim Ferreira do Amaral em Jaú.
+  Estou fazendo o curso de <strong>Desenvolvimento de Sistemas na ETEC Joaquim Ferreira do Amaral em Jaú</strong>.
 </p>
 
 <p align="left">
